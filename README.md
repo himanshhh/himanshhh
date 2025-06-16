@@ -20,7 +20,7 @@ I am also a Software Engineering graduate from DkIT.
 
 ### 💻: Projects
 
-You can check my projects [here](add link to projects page).
+You can check my projects [here](https://github.com/himanshhh/Projects).
 
 Projects Page (Sample Page)
 
