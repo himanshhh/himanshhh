@@ -22,26 +22,6 @@ I am also a Software Engineering graduate from DkIT.
 
 You can check my projects [here](https://github.com/himanshhh/Projects).
 
-Projects Page (Sample Page)
-
-# My Projects
-
-## C/C++/ Python
-
-- [Scientific Programming Series](https://github.com/shivangitechie/sciprog_23/tree/Shivangi_Dubey_Brightspace)
-- [Optical Character Recognition for Invoice Images](https://github.com/shivangitechie/Optical-Character-Recognition-for-Invoice-Images)
-- [Student Performance Anlaysis](https://github.com/shivangitechie/Programming-in-Python/tree/main)
-
-## MySQL & Power BI
-
-- [Bank Data Churn Analysis](https://github.com/shivangitechie/Bank-Data-Churn-Analysis)
-
-## Data Science
-
-- [NFL Player Performance Prediction Using NLP and Deep Learning](https://github.com/shivangitechie/Project-in-Math-Modelling)
-- [Customer Behavior Tourism Portal](https://github.com/shivangitechie/Customer-Behavior-Tourism-Portal-)
-
-
 <!--
 **himanshhh/himanshhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
