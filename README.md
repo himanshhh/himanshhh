@@ -2,7 +2,7 @@
 
 ![Cover Image](cover.png)
 
-🎓 Master's in Data Analytics | BSc in Software Development  
+🎓 Master's in Data Analytics | Graduate in Software Development  
 💼 Aspiring Data Analyst | Open to roles in Data Science, ML, AI, SQL & Software Dev  
 🌍 Currently based in Ireland  
 🔍 Passionate about uncovering insights from data to solve real-world problems 
