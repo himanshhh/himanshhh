@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ![Cover Image](cover.png)
+
 I am a Master's student at DkIT in Data and Computational Science.
 I am also a Software Engineering graduate from DkIT.
 
