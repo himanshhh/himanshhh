@@ -7,6 +7,10 @@
 🌍 Currently based in Ireland  
 🔍 Passionate about uncovering insights from data to solve real-world problems 
 
+### 💻: Projects
+
+You can check my projects [here](https://github.com/himanshhh/Projects).
+
 ### 🛠️: Skills
 
 - **Programming**: Java, Python, SQL, C++, Kotlin, C#, Swift 
@@ -22,10 +26,6 @@
 - Jupyter Notebook, Google Colab, Spyder.
 - MySQL, PSQL, MongoDB, Neo4J.
 - VS Code, IntelliJ IDEA, Android Studio.
-
-### 💻: Projects
-
-You can check my projects [here](https://github.com/himanshhh/Projects).
 
 ### 📫 Let's connect!
 - 📧 [Email](mailto:himansh.arora7@gmail.com)
